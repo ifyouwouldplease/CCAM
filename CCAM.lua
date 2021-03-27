@@ -7,6 +7,7 @@
 -- 0.13-- Bump interface for 1.13.5 Classic, refresh libs, clean up debug-only code
 -- 0.14 - Reconcile dev and Curse package versions
 -- 0.15 - Tag to prompt packaging after contact w/ Overwolf support
+-- 0.16 - Tag after move to Github
 
 -- All comments by Tuill
 -- I recommend a Lua-aware editor like SciTE that provides syntactic highlighting.
