@@ -8,7 +8,7 @@
 -- 0.14 - Reconcile dev and Curse package versions
 -- 0.15 - Tag to prompt packaging after contact w/ Overwolf support
 -- 0.16 - Bump & tag after move to Github
--- 0.17 - Rename of pkgmeta from dotfile for visiblity
+-- 0.17 - Rename of pkgmeta from .dotfile for visiblity
 -- 0.18 - Testing customized changelog
 
 -- All comments by Tuill
