@@ -1,5 +1,11 @@
-## 0.15 - 01/28/2021
-###  *  Tag to prompt auto build after contact w/ Overwolf support
+## 0.18 - 03/27/2021
+###  *  Adjust for custom changelog.
+
+##### 0.18 :
+  *  Trivial edit to prompt changelog
+
+##### 0.15 :
+  *  Tag to prompt auto build after contact w/ Overwolf support
 
 ##### 0.14 :
   *  Reconcile dev and Curse package versions.
@@ -24,6 +30,8 @@
 
 ##### 0.1 :
   *  Initial commit of CCAM files.
+
+
 
 
 
