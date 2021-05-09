@@ -10,6 +10,7 @@
 -- 0.16 - Bump & tag after move to Github
 -- 0.17 - Rename of pkgmeta from .dotfile for visiblity
 -- 0.18 - Trivial update testing customized changelog, update client version
+-- 0.19 - Bump interface for 1.13.7 TBC Classic pre-pre-patch, refresh libs
 
 -- All comments by Tuill
 -- I recommend a Lua-aware editor like SciTE that provides syntactic highlighting.
