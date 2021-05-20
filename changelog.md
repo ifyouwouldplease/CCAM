@@ -1,6 +1,9 @@
-## 0.19 - 05/09/2021
-###  *  Bump interface for 1.13.7 TBC Classic pre-pre-patch, refresh libs
+## 0.19 - 05/19/2021
+###  *  Interface for BC
 
+
+##### 0.19 :
+  *  Bump interface for 1.13.7 TBC Classic pre-pre-patch, refresh libs
 
 ##### 0.18 :
   *  Trivial update to test custom changelog.
@@ -37,6 +40,7 @@
 
 ##### 0.1 :
   *  Initial commit of CCAM files.
+
 
 
 
