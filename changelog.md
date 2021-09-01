@@ -1,6 +1,13 @@
-## 0.19 - 05/19/2021
-###  *  Interface for BC
+## 0.20 - 08/31/2021
+###  *  Update version for 2.5.2, refresh libs
 
+
+
+##### 0.20 :
+  *  Update version for 2.5.2, refresh libs
+
+##### 0.19 :
+  *  Interface for BC
 
 ##### 0.19 :
   *  Bump interface for 1.13.7 TBC Classic pre-pre-patch, refresh libs
@@ -40,6 +47,10 @@
 
 ##### 0.1 :
   *  Initial commit of CCAM files.
+
+
+
+
 
 
 
