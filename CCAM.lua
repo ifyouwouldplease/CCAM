@@ -12,6 +12,7 @@
 -- 0.18 - Trivial update testing customized changelog, update client version
 -- 0.19 - Bump interface for 1.13.7 TBC Classic pre-pre-patch, refresh libs
 -- 0.20 - Bump interface for 2.5.2, refresh libs
+-- 0.21 - Bump interface for 2.5.3, refresh libs
 
 -- All comments by Tuill
 -- I recommend a Lua-aware editor like SciTE that provides syntactic highlighting.
