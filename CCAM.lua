@@ -15,6 +15,7 @@
 -- 0.21 - Bump interface for 2.5.3, refresh libs
 -- 0.22 - Bump interface for 2.5.4, refresh libs
 -- 0.23 - Bump interface for 3.4.0, refresh libs, break out TBC and Wrath TOCs
+-- 0.24 - Bump interface for 3.4.1, refresh libs
 
 -- All comments by Tuill
 -- I recommend a Lua-aware editor like SciTE that provides syntactic highlighting.

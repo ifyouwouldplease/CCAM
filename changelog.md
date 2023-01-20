@@ -1,6 +1,12 @@
-## 0.22 - 09/15/2022
-###  *  Bump interface for 3.4.0, refresh libs, break out TBC and Wrath TOCs
+## 0.22 - 01/19/2023
+###  *  Bump interface for 3.4.1, refresh libs
 
+
+##### 0.22 :
+  *  Saw Powershell dialog as empty or canceled
+
+##### 0.22 :
+  *  Bump interface for 3.4.0, refresh libs, break out TBC and Wrath TOCs
 
 ##### 0.22 :
   *  Bump interface for 2.5.4, refresh libs
@@ -55,6 +61,8 @@
 
 ##### 0.1 :
   *  Initial commit of CCAM files.
+
+
 
 
 
