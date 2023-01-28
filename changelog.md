@@ -1,18 +1,18 @@
-## 0.22 - 01/27/2023
-###  *  Adjust GetContainerNumFreeSlots() to new, more "Retail" 3.4.1 form.
+## 0.25 - 01/28/2023
+###  *  No distribution build, update copyright year in license file, changes to commit script version grabber.
 
 
-##### 0.22 :
+##### 0.25 :
+  *  Adjust GetContainerNumFreeSlots() to new, more "Retail" 3.4.1 form.
+
+##### 0.24 :
   *  Bump interface for 3.4.1, refresh libs
 
-##### 0.22 :
+##### 0.23x :
   *  Saw Powershell dialog as empty or canceled
 
-##### 0.22 :
+##### 0.23 :
   *  Bump interface for 3.4.0, refresh libs, break out TBC and Wrath TOCs
-
-##### 0.22 :
-  *  Bump interface for 2.5.4, refresh libs
 
 ##### 0.22 :
   *  Bump interface for 2.5.4, refresh libs
@@ -64,6 +64,10 @@
 
 ##### 0.1 :
   *  Initial commit of CCAM files.
+
+
+
+
 
 
 
