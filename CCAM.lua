@@ -16,6 +16,7 @@
 -- 0.22 - Bump interface for 2.5.4, refresh libs
 -- 0.23 - Bump interface for 3.4.0, refresh libs, break out TBC and Wrath TOCs
 -- 0.24 - Bump interface for 3.4.1, refresh libs
+-- 0.25 - Adjust GetContainerNumFreeSlots() to new, more "Retail" 3.4.1 form.
 
 -- All comments by Tuill
 -- I recommend a Lua-aware editor like SciTE that provides syntactic highlighting.
@@ -225,7 +226,7 @@ do
     for bagKey, bagValue in pairs(affectedBags) do
       if bagKey then
         if bagValue == true then
-		  freeSlots = freeSlots + GetContainerNumFreeSlots(bagKey);
+		  freeSlots = freeSlots + C_Container.GetContainerNumFreeSlots(bagKey);
         else
 		  -- Didn't choose to test this bag
         end
