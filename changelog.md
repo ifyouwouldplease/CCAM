@@ -1,6 +1,9 @@
-## 0.25 - 01/28/2023
-###  *  No distribution build, update copyright year in license file, changes to commit script version grabber.
+## 0.26 - 11/12/2023
+###  *  Bump interface for 1.14.4 classic, 3.4.3 wrath classic, refresh libs
 
+
+##### 0.25 :
+  *  No distribution build, update copyright year in license file, changes to commit script version grabber.
 
 ##### 0.25 :
   *  Adjust GetContainerNumFreeSlots() to new, more "Retail" 3.4.1 form.
@@ -64,6 +67,7 @@
 
 ##### 0.1 :
   *  Initial commit of CCAM files.
+
 
 
 

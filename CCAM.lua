@@ -17,6 +17,8 @@
 -- 0.23 - Bump interface for 3.4.0, refresh libs, break out TBC and Wrath TOCs
 -- 0.24 - Bump interface for 3.4.1, refresh libs
 -- 0.25 - Adjust GetContainerNumFreeSlots() to new, more "Retail" 3.4.1 form.
+-- 0.26 - Bump interface for 1.14.4 classic, 3.4.3 wrath classic, refresh libs
+
 
 -- All comments by Tuill
 -- I recommend a Lua-aware editor like SciTE that provides syntactic highlighting.
