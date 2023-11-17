@@ -1,6 +1,9 @@
-## 0.26 - 11/12/2023
-###  *  Bump interface for 1.14.4 classic, 3.4.3 wrath classic, refresh libs
+## 0.27 - 11/16/2023
+###  *  Bump interface for 1.15.0 classic, 3.4.3 wrath classic, refresh libs, re-add .pkgmeta to troubleshoot Curse changelog
 
+
+##### 0.26 :
+  *  Bump interface for 1.14.4 classic, 3.4.3 wrath classic, refresh libs
 
 ##### 0.25 :
   *  No distribution build, update copyright year in license file, changes to commit script version grabber.
@@ -67,6 +70,7 @@
 
 ##### 0.1 :
   *  Initial commit of CCAM files.
+
 
 
 
