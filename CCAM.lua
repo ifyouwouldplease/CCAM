@@ -19,6 +19,7 @@
 -- 0.25 - Adjust GetContainerNumFreeSlots() to new, more "Retail" 3.4.1 form.
 -- 0.26 - Bump interface for 1.14.4 classic, 3.4.3 wrath classic, refresh libs
 -- 0.27 - Bump interface for 1.15.0 classic, 3.4.3 wrath classic, refresh libs, re-add .pkgmeta to troubleshoot Curse changelog
+-- 0.28 - Initial for Cata Classic, refresh libs.
 
 
 -- All comments by Tuill
