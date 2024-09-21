@@ -1,6 +1,9 @@
-## 0.28 - 05/01/2024
-###  *  Initial for Cata Classic, refresh libs.
+## 0.28 - 09/21/2024
+###  *  Bump interface for Classic-Classic.
 
+
+##### 0.28 :
+  *  Initial for Cata Classic, refresh libs.
 
 ##### 0.27 :
   *  Bump interface for 1.15.0 classic, 3.4.3 wrath classic, refresh libs, re-add .pkgmeta to troubleshoot Curse changelog
@@ -73,6 +76,7 @@
 
 ##### 0.1 :
   *  Initial commit of CCAM files.
+
 
 
 
