@@ -1,6 +1,9 @@
-## 0.29 - 12/08/2024
-###  *  Bump interface, refresh libs for Classic-Classic.
+## 0.30 - 02/22/2025
+###  *  Bump version and interface for Classic-Anniversary, refresh libs
 
+
+##### 0.29 :
+  *  Bump interface, refresh libs for Classic-Classic.
 
 ##### 0.28 :
   *  Bump interface again for Classic 1.15.4
@@ -82,6 +85,7 @@
 
 ##### 0.1 :
   *  Initial commit of CCAM files.
+
 
 
 
