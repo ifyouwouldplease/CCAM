@@ -22,6 +22,7 @@
 -- 0.28 - Initial for Cata Classic, refresh libs. UPDATE - Bump version and interface for Classic-Classic. UPDATE - Bump again 1.15.4.
 -- 0.29 - Bump version and interface for Classic-Classic.
 -- 0.30 - Bump version and interface for Classic-Anniversary, refresh libs
+-- 0.31 - Bump version and interface for Classic-Anniversary, refresh libs
 
 
 -- All comments by Tuill
