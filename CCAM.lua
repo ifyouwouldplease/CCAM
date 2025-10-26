@@ -23,6 +23,7 @@
 -- 0.29 - Bump version and interface for Classic-Classic.
 -- 0.30 - Bump version and interface for Classic-Anniversary, refresh libs
 -- 0.31 - Bump version and interface for Classic-Anniversary, refresh libs
+-- 0.32 - Changes in API to read addon metadata, bump interfaces, refresh libs
 
 
 -- All comments by Tuill
@@ -43,6 +44,14 @@ local table_insert = table.insert
 local table_sort = table.sort
 local RaidNotice_AddMessage = RaidNotice_AddMessage
 local PlaySoundFile = PlaySoundFile
+
+-- Accommodate changes in API
+local GetAddOnMetadata = GetAddOnMetadata or (C_AddOns and C_AddOns.GetAddOnMetadata)
+local GetNumAddOns = GetNumAddOns or (C_AddOns and C_AddOns.GetNumAddOns)
+local IsAddOnLoaded = IsAddOnLoaded or (C_AddOns and C_AddOns.IsAddOnLoaded)
+local IsAddOnLoadOnDemand = IsAddOnLoadOnDemand or (C_AddOns and C_AddOns.IsAddOnLoadOnDemand)
+local GetAddOnInfo = GetAddOnInfo or (C_AddOns and C_AddOns.GetAddOnInfo)
+local GetAddOnDependencies = GetAddOnDependencies or (C_AddOns and C_AddOns.GetAddOnDependencies)
 
 -- Fetch version & notes from TOC file
 local ourVersion = GetAddOnMetadata("CCAM", "Version")
