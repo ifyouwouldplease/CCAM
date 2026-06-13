@@ -1,6 +1,9 @@
-## 0.32 - 10/26/2025
-###  *  Changes in API to read addon metadata, bump interfaces, refresh libs
+## 0.33 - 06/13/2026
+###  *  Bump version and interface for TBC-Anniversary, refresh libs
 
+
+##### 0.32 :
+  *  Changes in API to read addon metadata, bump interfaces, refresh libs
 
 ##### 0.31 :
   *  Saw Powershell dialog as empty or canceled
@@ -94,6 +97,7 @@
 
 ##### 0.1 :
   *  Initial commit of CCAM files.
+
 
 
 
