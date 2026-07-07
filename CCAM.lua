@@ -25,6 +25,7 @@
 -- 0.31 - Bump version and interface for Classic-Anniversary, refresh libs
 -- 0.32 - Changes in API to read addon metadata, bump interfaces, refresh libs
 -- 0.33 - Bump version and interface for TBC-Anniversary, refresh libs
+-- 0.34 - Bump version and interface for TBC-Anniversary, refresh libs
 
 
 -- All comments by Tuill

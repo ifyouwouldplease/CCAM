@@ -1,8 +1,8 @@
-## Interface: 20505
+## Interface: 20506
 ## Title: CCAM
 ## Notes: CCAM (Can't Carry Any More!) provides slash commands to show an alert if the selected bags are full.
 ## Author: Tuill of Dreamscythe
-## Version: 0.33
+## Version: 0.34
 
 embeds.xml
 
