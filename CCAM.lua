@@ -1,5 +1,5 @@
 -- CCAM - CCAM (Can't Carry Any More!) provides slash commands to show an alert if the selected bags are full.
--- Tuill of Pagle
+-- Tuill of Dreamscythe
 -- Revisions:
 -- 0.10 - Initial version, copy of template (by Tuill) source
 -- 0.11 - Bump to prompt package build at Curse after approval
@@ -26,6 +26,7 @@
 -- 0.32 - Changes in API to read addon metadata, bump interfaces, refresh libs
 -- 0.33 - Bump version and interface for TBC-Anniversary, refresh libs
 -- 0.34 - Bump version and interface for TBC-Anniversary, refresh libs
+-- 0.35 - Add IconTexture, bump version and interface for TBC-Anniversary, refresh libs
 
 
 -- All comments by Tuill

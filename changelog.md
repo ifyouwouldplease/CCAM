@@ -1,6 +1,9 @@
-## 0.34 - 07/07/2026
-###  *  Bump version and interface for TBC-Anniversary, refresh libs
+## 0.35 - 08/18/2026
+###  *  Add IconTexture, bump version and interface for TBC-Anniversary, refresh libs
 
+
+##### 0.34 :
+  *  Bump version and interface for TBC-Anniversary, refresh libs
 
 ##### 0.33 :
   *  Bump version and interface for TBC-Anniversary, refresh libs
@@ -100,6 +103,7 @@
 
 ##### 0.1 :
   *  Initial commit of CCAM files.
+
 
 
 
