@@ -1,6 +1,9 @@
-## 0.35 - 08/18/2026
-###  *  Add IconTexture, bump version and interface for TBC-Anniversary, refresh libs
+## 0.36 - 09/07/2026
+###  *  Change to use global name for help static popup, refresh libs
 
+
+##### 0.35 :
+  *  Add IconTexture, bump version and interface for TBC-Anniversary, refresh libs
 
 ##### 0.34 :
   *  Bump version and interface for TBC-Anniversary, refresh libs
@@ -103,6 +106,7 @@
 
 ##### 0.1 :
   *  Initial commit of CCAM files.
+
 
 
 

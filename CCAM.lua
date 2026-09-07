@@ -27,6 +27,7 @@
 -- 0.33 - Bump version and interface for TBC-Anniversary, refresh libs
 -- 0.34 - Bump version and interface for TBC-Anniversary, refresh libs
 -- 0.35 - Add IconTexture, bump version and interface for TBC-Anniversary, refresh libs
+-- 0.36 - Change to use global name for help static popup, refresh libs
 
 
 -- All comments by Tuill
@@ -86,13 +87,14 @@ StaticPopupDialogs["CCAM_EXAMPLE"] = {
   text = "Example Macro:",
   button1 = "OK",
   OnShow = function (self, data)
-    self.editBox:SetMultiLine(true)
-  self.editBox:SetHeight(50)
-  --self.editBox:GetParent():SetBackdrop(nil) -- Works for entire Dialog
-  self.editBox:DisableDrawLayer("BACKGROUND")
-    self.editBox:SetText(ourAddon.ccamExampleText)
-  self.editBox:HighlightText()
-  self:Show()
+    local ourEdit = _G[self:GetName() .. "EditBox"]
+    ourEdit:SetMultiLine(true)
+    ourEdit:SetHeight(50)
+    --self.editBox:GetParent():SetBackdrop(nil) -- Works for entire Dialog
+    ourEdit:DisableDrawLayer("BACKGROUND")
+    ourEdit:SetText(ourAddon.ccamExampleText)
+    ourEdit:HighlightText()
+    self:Show()
   end,
   hasEditBox = true,
   hasWideEditBox = true,
