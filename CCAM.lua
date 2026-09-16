@@ -1,5 +1,5 @@
 -- CCAM - CCAM (Can't Carry Any More!) provides slash commands to show an alert if the selected bags are full.
--- Tuill of Dreamscythe
+-- Tuill of Duskwood/Greymane/Pagle/Dreamscythe
 -- Revisions:
 -- 0.10 - Initial version, copy of template (by Tuill) source
 -- 0.11 - Bump to prompt package build at Curse after approval
@@ -28,6 +28,7 @@
 -- 0.34 - Bump version and interface for TBC-Anniversary, refresh libs
 -- 0.35 - Add IconTexture, bump version and interface for TBC-Anniversary, refresh libs
 -- 0.36 - Change to use global name for help static popup, refresh libs
+-- 0.37 - Fold TOCs back into single w/ multiple Interface, adjust sound handling for later expansions.
 
 
 -- All comments by Tuill
@@ -258,7 +259,12 @@ do
 	end
     if freeSlots == 0 then
       RaidNotice_AddMessage(RaidWarningFrame, custMsg, ChatTypeInfo["RAID_WARNING"])
-      PlaySoundFile("Sound\\Interface\\RaidWarning.ogg", "Master")
+      local _, _, _, ourExp = GetBuildInfo()
+      if ourExp < 50000 then
+        PlaySoundFile("Sound\\Interface\\RaidWarning.ogg", "Master")
+      else
+        PlaySoundFile(567397, "Master")
+      end
     end
   end
 
