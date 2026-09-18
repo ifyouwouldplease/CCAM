@@ -29,6 +29,7 @@
 -- 0.35 - Add IconTexture, bump version and interface for TBC-Anniversary, refresh libs
 -- 0.36 - Change to use global name for help static popup, refresh libs
 -- 0.37 - Fold TOCs back into single w/ multiple Interface, adjust sound handling for later expansions.
+-- 0.38 - Add Forever interface to TOC, refresh libs.
 
 
 -- All comments by Tuill

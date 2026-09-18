@@ -1,6 +1,9 @@
-## 0.37 - 09/16/2026
-###  *  Fold TOCs back into single w/ multiple Interface, adjust sound handling for later expansions.
+## 0.38 - 09/18/2026
+###  *  Add Forever interface to TOC, refresh libs.
 
+
+##### 0.37 :
+  *  Fold TOCs back into single w/ multiple Interface, adjust sound handling for later expansions.
 
 ##### 0.36 :
   *  Change to use global name for help static popup, refresh libs
@@ -109,6 +112,7 @@
 
 ##### 0.1 :
   *  Initial commit of CCAM files.
+
 
 
 
